@@ -1,51 +1,89 @@
-## 👋 Hi there, I'm Naveen Ojha
+<!-- GitHub Profile README: Naveen Ojha -->
 
-🎯 A motivated professional transitioning from a Sales background into the world of **Data Analytics**, with a strong passion for turning raw data into actionable insights.
-
----
-
-### 💼 What I Bring:
-- ✅ 5 years of experience in **Sales**, **Business Development**, and **Client Handling**
-- ✅ Certified in **Advanced Excel**, **SQL**, **Power BI**, and **Python (Basics)**
-- ✅ Skilled in data cleaning, visualization, and dashboard creation
+<h1 align="center">👋 Hey there, I'm Naveen Ojha</h1>
+<h3 align="center">🚀 Sales Pro turned Aspiring Data Analyst | Explorer of Data, Dashboards & Decisions</h3>
 
 ---
 
-### 🔧 Tools & Technologies:
-- 📊 Power BI | Microsoft Excel
-- 🐍 Python (basics)
-- 🧠 SQL (Joins, Subqueries, Aggregates)
-- 📁 Git & GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning%20&%20Dashboards-green" />
+  <img src="https://img.shields.io/badge/Power%20BI-Visual%20Analytics-yellow" />
+  <img src="https://img.shields.io/badge/SQL-Queries%20&%20Joins-blue" />
+  <img src="https://img.shields.io/badge/Python-Basics%20+%20Data%20Viz-orange" />
+  <img src="https://img.shields.io/badge/Tableau-Interactive%20Dashboards-purple" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-lightgrey" />
+</p>
 
 ---
 
-### 📂 Featured Projects:
-- **Sales Dashboard (Power BI)**  
-  Visualized regional sales performance and KPIs using slicers, cards, and DAX.
+### ✨ About Me
 
-- **Customer Churn Analysis (SQL + Excel)**  
-  Cleaned and analyzed customer data to identify churn trends.
+Hi! I'm Naveen — a **results-driven professional** shifting from 4+ years in **Sales & Business Development** to the world of **Data Analytics**. I believe data isn't just numbers — it's a story waiting to be told.  
+I’ve completed multiple certifications and built practical, real-world projects using tools like **Excel, Power BI, SQL, Python, and Tableau**.
 
-- **Marketing Campaign Insights (Python)**  
-  Explored campaign data using Python for patterns and conversion metrics.
-
-👉 *More projects coming soon!*
+> 🧠 I'm passionate about **data-driven decision-making**, and I'm actively looking for **internships or entry-level roles** to bring business sense into data.
 
 ---
 
-### 🌱 Currently Learning:
-- Advanced DAX for Power BI  
-- Python for Data Cleaning & Automation  
-- Portfolio Optimization (beginner data science concepts)
+### 🛠️ Technical Toolkit
+
+| Tool / Language | Proficiency | Use Case |
+|------------------|-------------|-----------|
+| **Excel (Advanced)** | ✅✅✅✅ | Data Cleaning, Pivot Reports, Automation |
+| **Power BI** | ✅✅✅✅ | Dashboard Design, DAX, KPI Tracking |
+| **SQL** | ✅✅✅ | Joins, Aggregations, Subqueries |
+| **Python (Basics)** | ✅✅ | Data Analysis, EDA, Visualization |
+| **Tableau** | ✅✅ | Interactive Dashboards, Storytelling |
+| **Git & GitHub** | ✅✅ | Version Control, Portfolio Projects |
+| **AI** | 🌱 Learning | AI for analytics & insights |
 
 ---
 
-### 📫 Connect With Me:
-- 🔗 [LinkedIn – Naveen Ojha](https://www.linkedin.com/in/naveen-ojha-2a2862222/)
-- 📧 naveen@example.com *(replace with your real email)*
-- 📁 [Explore My Projects](https://github.com/Naveen7ojha)
+### 📂 Projects Showcase
+
+📊 **Sales Dashboard – Power BI**  
+➡️ Regional sales tracker with slicers, dynamic visuals, DAX-driven KPIs.  
+🔗 *[Link to Project]*
+
+📉 **Customer Churn Analysis – SQL + Excel**  
+➡️ Data cleaning, SQL queries for churn insights, Excel report presentation.  
+🔗 *[Link to Project]*
+
+📈 **Marketing Campaign Insights – Python**  
+➡️ Python EDA, visual trends, and action suggestions for a marketing dataset.  
+🔗 *[Link to Project]*
+
+📋 **Tableau Dashboard (Coming Soon)**  
+➡️ Interactive visuals to present business trends & product performance.
 
 ---
 
-> “Data is the new oil, but insight is the spark.”  
-Let’s turn data into decisions!
+### 📚 Currently Learning
+
+- ⚡ Advanced DAX & Power Query
+- 🤖 Python for Automation & AI in Data
+- 📊 Tableau Storyboarding
+- 🔍 Real-time case studies on business data
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/naveen-ojha-2a2862222/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Ojha-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:naveen@example.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+### 🔥 Quote I Live By
+
+> “Without data, you're just another person with an opinion.” – *W. Edwards Deming*
+
+---
+
+⭐ *Thanks for visiting! Let’s connect and explore how data can shape decisions.*  
