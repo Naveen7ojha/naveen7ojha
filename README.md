@@ -5,7 +5,7 @@
 ---
 
 ### 💼 What I Bring:
-- ✅ 4+ years of experience in **Sales**, **Business Development**, and **Client Handling**
+- ✅ 5 years of experience in **Sales**, **Business Development**, and **Client Handling**
 - ✅ Certified in **Advanced Excel**, **SQL**, **Power BI**, and **Python (Basics)**
 - ✅ Skilled in data cleaning, visualization, and dashboard creation
 
