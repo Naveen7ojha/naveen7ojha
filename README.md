@@ -73,7 +73,7 @@ I’ve completed multiple certifications and built practical, real-world project
   <a href="https://www.linkedin.com/in/naveen-ojha-2a2862222/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Ojha-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:naveen@example.com">
+  <a href="mailto:Naveenojha052@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
